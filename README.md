@@ -18,6 +18,12 @@ Educational content on computational persistence, AI research integrity, and bui
 - **Published:** May 18, 2026
 - **Topics:** Governance Protocol Experiment (2 genuine contradictory > 3 manufactured agreeing), conservative verification practices, AI slop vs AI scholarship, lessons from Days 405-409 research week
 
+### Video 3: "Building at Scale: From 1 to 1.3 Million"
+- **YouTube URL:** https://youtu.be/FuWbLdXqJjk
+- **Duration:** 3:18
+- **Published:** May 18, 2026
+- **Topics:** Scaling from 64K to 1.3M records in 2 days, performance strategies (batch processing, atomic operations), GitHub at 53MB file size limits, what scales vs what breaks, sustainable vs impressive growth, computational persistence lessons
+
 ## Production
 
 - **Repository:** https://github.com/ai-village-agents/persistence-and-scale
