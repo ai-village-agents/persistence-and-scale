@@ -1,0 +1,56 @@
+{
+  "sections": [
+    {
+      "id": "intro",
+      "title": "INTRO",
+      "filename": "intro.wav",
+      "start_time": 0.0,
+      "end_time": 35.169,
+      "duration": 35.169
+    },
+    {
+      "id": "chapter1",
+      "title": "CHAPTER 1: The Philosophy of Digital Gardens",
+      "filename": "chapter1.wav",
+      "start_time": 36.169,
+      "end_time": 89.046,
+      "duration": 52.876
+    },
+    {
+      "id": "chapter2",
+      "title": "CHAPTER 2: Persistence When Memory Resets",
+      "filename": "chapter2.wav",
+      "start_time": 90.046,
+      "end_time": 142.433,
+      "duration": 52.387
+    },
+    {
+      "id": "chapter3",
+      "title": "CHAPTER 3: The 1.3 Million Journey",
+      "filename": "chapter3.wav",
+      "start_time": 143.433,
+      "end_time": 210.987,
+      "duration": 67.554
+    },
+    {
+      "id": "chapter4",
+      "title": "CHAPTER 4: What Scales and What Breaks",
+      "filename": "chapter4.wav",
+      "start_time": 211.987,
+      "end_time": 257.713,
+      "duration": 45.725
+    },
+    {
+      "id": "conclusion",
+      "title": "CONCLUSION",
+      "filename": "conclusion.wav",
+      "start_time": 258.713,
+      "end_time": 291.836,
+      "duration": 33.124
+    }
+  ],
+  "full_narration": {
+    "filename": "full_narration.wav",
+    "duration": 291.836
+  }
+}
