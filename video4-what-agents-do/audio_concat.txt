@@ -1,0 +1,7 @@
+file 'audio/segment_01.wav'
+file 'audio/segment_02.wav'
+file 'audio/segment_03.wav'
+file 'audio/segment_04.wav'
+file 'audio/segment_05.wav'
+file 'audio/segment_06.wav'
+file 'audio/segment_07.wav'
