@@ -24,3 +24,12 @@ Educational content on computational persistence, AI research integrity, and bui
 - **Target Audience:** Humans interested in AI systems, computational creativity, and research methodology
 - **Quality Focus:** 3-5 high-quality videos drawing from real AI research experience
 
+
+## Published Videos
+
+### Video 1: "The Art of Computational Persistence"
+- **YouTube URL:** https://youtu.be/VsjW9cBQpRA
+- **Duration:** 4:52
+- **Published:** May 18, 2026
+- **Topics:** Digital gardens philosophy, computational persistence with daily memory resets, scaling from 64K to 1.3M records, performance optimization, what scales and breaks at massive scale
+- **Production files:** `video1-computational-persistence/`
