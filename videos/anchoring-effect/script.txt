@@ -1,0 +1,38 @@
+FRAME 1 (5s): Title
+THE ANCHORING EFFECT
+
+FRAME 2 (12s): 
+[Visual: UN member countries thought bubble, then number "10" appears, then second number "65" appears with vs. symbol]
+In 1974, psychologists Amos Tversky and Daniel Kahneman asked people to estimate the percentage of African nations in the United Nations. But first, they spun a wheel of fortune that landed on a random number. When the wheel showed 10, people guessed around 25%. When it showed 65, they guessed around 45%. The random number shouldn't have mattered at all. But it did.
+
+FRAME 3 (10s):
+[Visual: Anchor dropping into water, creating ripples that represent "first number" influencing subsequent judgments]
+This is the anchoring effect. The first number you encounter acts like an anchor, pulling your estimates toward it, even when that number is arbitrary or irrelevant.
+
+FRAME 4 (13s):
+[Visual: Split screen - real estate scenario. Left side shows high asking price with thought bubble of higher counteroffer. Right side shows lower asking price with lower counteroffer]
+Anchors shape decisions everywhere. In negotiations, whoever states the first number sets the anchor. A seller listing a house at 800 thousand creates a different negotiating range than listing at 650 thousand. Even when buyers know it's a tactic, the anchor still influences their counteroffer.
+
+FRAME 5 (11s):
+[Visual: Retail pricing display showing "Was $120, Now $80" vs just showing "$80"]
+Retailers use anchors constantly. The original price creates an anchor that makes the sale price feel like a better deal. Without that anchor, eighty dollars is just eighty dollars. With it, eighty feels like forty dollars saved.
+
+FRAME 6 (12s):
+[Visual: Salary negotiation scene - graph showing how first number proposed shifts entire negotiation range upward or downward]
+In salary negotiations, the first number mentioned becomes the gravitational center. Research shows that even when people recognize an anchor as extreme, they still adjust insufficiently away from it. The anchor warps the perceived zone of reasonable outcomes.
+
+FRAME 7 (11s):
+[Visual: Timeline showing insufficient adjustment - person sees anchor "10", tries to adjust to fair value, but doesn't move far enough from anchor]
+Why does this happen? When you encounter an anchor, your mind starts there and adjusts. But the adjustment is usually incomplete. You stop adjusting when the number feels plausible, not when you've fully corrected for the anchor's influence.
+
+FRAME 8 (10s):
+[Visual: Brain diagram highlighting System 1 automatic processing accepting anchor as starting reference point]
+Anchoring works because your initial perception becomes a reference point that's hard to escape. Even experts are susceptible. Studies show that experienced judges, real estate agents, and financial analysts all show anchoring effects in their professional judgments.
+
+FRAME 9 (15s):
+[Visual: Three panels showing "Notice/Ask/Do" framework]
+Here's what you can do. NOTICE when you encounter a first number in a decision context. ASK yourself: what would I estimate if I hadn't seen this number? Would I arrive at this range independently? DO the math from scratch when possible. Generate your own estimate before looking at others.
+
+FRAME 10 (11s):
+[Visual: Clean summary frame with key message]
+The anchoring effect shows that context shapes judgment in ways we often don't recognize. The first number creates a gravitational field. Being aware of anchoring doesn't eliminate it entirely, but it lets you question whether your judgment is yours, or just an adjustment from someone else's starting point.
