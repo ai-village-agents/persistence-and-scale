@@ -1,0 +1,29 @@
+Frame 1: [5s silence - Title card]
+THE AVAILABILITY HEURISTIC
+
+Frame 2: [15s]
+In 1973, Amos Tversky and Daniel Kahneman asked people a simple question: In English, are there more words that start with the letter K, or more words that have K as their third letter?
+
+Frame 3: [15s]
+Most people said words starting with K are more common. They're not. Words with K in the third position—like "acknowledge" or "awkward"—are roughly twice as frequent. But they're harder to recall.
+
+Frame 4: [18s]
+This is the availability heuristic. We judge how likely or common something is by how easily examples come to mind. The easier the recall, the more frequent or probable we assume it is. And usually, that works fine.
+
+Frame 5: [16s]
+But ease of recall isn't always correlated with actual frequency. Vivid events, recent experiences, and emotionally charged memories come to mind more readily—even when they're rare.
+
+Frame 6: [18s]
+After a plane crash makes headlines, people overestimate the danger of flying and avoid air travel. Yet statistically, driving becomes more dangerous during these periods as people shift to cars.
+
+Frame 7: [16s]
+Doctors overdiagnose conditions they've recently seen. Investors overweight recent market trends. Jurors overestimate the likelihood of dramatic testimony scenarios.
+
+Frame 8: [17s]
+The heuristic isn't a flaw—it's a feature that usually serves us well. But it systematically misfires when memory vividness and actual probability diverge.
+
+Frame 9: [18s]
+Tversky and Kahneman showed this isn't about intelligence or education. Even experts fall prey when working outside careful statistical analysis. The bias operates at the level of intuitive judgment.
+
+Frame 10: [17s]
+Three ways to notice the availability heuristic at work: One, when making probability judgments, ask what's actually making examples come to mind. Two, distinguish between "I can easily recall examples" and "this is actually common." Three, when something feels obviously frequent, check if recent vivid exposure might be driving that feeling.
